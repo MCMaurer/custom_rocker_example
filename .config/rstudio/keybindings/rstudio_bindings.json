@@ -1,0 +1,20 @@
+{
+    "activateSource": "Ctrl+1",
+    "activateTerminal": "Cmd+4",
+    "expandToMatching": "Ctrl+Shift+M|Cmd+R",
+    "goToFileFunction": "Ctrl+Cmd+F",
+    "insertAssignmentOperator": "Cmd+,",
+    "insertPipeOperator": "Cmd+.",
+    "insertSection": "Cmd+J",
+    "layoutZoomConsole": "Alt+Cmd+2",
+    "layoutZoomConsolePane": "Alt+Cmd+3",
+    "layoutZoomSource": "Alt+Cmd+1",
+    "nextTab": "Cmd+3",
+    "previousTab": "Cmd+1",
+    "profileCode": "Ctrl+Alt+Cmd+P",
+    "reformatCode": "Cmd+I",
+    "reindent": "Shift+Cmd+A",
+    "renameInScope": "Cmd+D",
+    "switchFocusSourceConsole": "Cmd+2",
+    "restartR": "Shift+Cmd+R"
+}
