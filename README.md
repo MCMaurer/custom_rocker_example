@@ -3,7 +3,7 @@ Making a customized Rocker image with RStudio settings, keybindings, and .RProfi
 
 Fork this repo, then modify `.config/rstudio/` and `.Rprofile` with your own. You can find this directory at `~/.config/rstudio/` on Mac and Linux (I think). This will contain keybindings, RStudio preferences, and any custom themes.
 
-You can add any `.ttf` files to the `.config/rstudio/fonts/` directory, which will then become available as RStudio editor fonts. You can modify your `rstudio-prefs.json` file to use those fonts, like this:
+You can add any `.ttf` files to the `.config/rstudio/fonts/` directory, which will then become available as RStudio editor fonts. You can modify your `rstudio-prefs.json` file to use those fonts, adding lines like this to the JSON:
 
 ```{json}
 "server_editor_font": "FiraCode",
