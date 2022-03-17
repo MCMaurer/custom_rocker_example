@@ -54,6 +54,6 @@
     "source_with_echo": true,
     "editor_theme": "Night Owl Customized from rsthemes",
     "rmd_preferred_template_path": "/Users/MJ/R_Packages_4.1/vitae/rmarkdown/templates/moderncv",
-   "server_editor_font": "FiraCode",
+    "server_editor_font": "FiraCode",
     "server_editor_font_enabled": true
 }
